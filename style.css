@@ -55,12 +55,12 @@ header {
 #index_howitworks {
   width: inherit;
   height: 450px;
-  background: yellow;
+  background: #ffffff;
 }
 
 /* Featured Instructors Style */
 #index_featuredinstructors {
   width: inherit;
   height: 400px;
-  background-color: red;
+  background-color: #E8E8E8;
 }
