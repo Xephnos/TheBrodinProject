@@ -7,3 +7,63 @@
 header, a, article, section, footer, aside {
   display: block;
 }
+<<<<<<< HEAD
+=======
+
+/* Body Style */
+body {
+  width: 100%;
+  /* Different Fonts to Be Added */
+  font-family: Arial, sans-serif;
+}
+
+/* Top Nav Style */
+#index_topnavigation {
+  height: 25px;
+  background-color: #292929;
+}
+
+/* Header Style */
+header {
+  width: inherit;
+  height: 100px;
+  background-color: #ffffff;
+}
+
+#index_headerlogo {
+  font-size: 25px;
+  color: #FF4000;
+  float: left;
+  margin-top: 36px;
+  margin-left: 25px;
+}
+
+/* Mission Section Style */
+#index_mission {
+  width: inherit;
+  height: auto;
+  padding: 0px;
+  margin: 0px;
+}
+
+#index_mission img {
+  width: inherit;
+  height: inherit;
+  padding: inherit;
+  margin: inherit;
+}
+
+/* HowItWorks Section Style */
+#index_howitworks {
+  width: inherit;
+  height: 450px;
+  background: #ffffff;
+}
+
+/* Featured Instructors Style */
+#index_featuredinstructors {
+  width: inherit;
+  height: 400px;
+  background-color: #E8E8E8;
+}
+>>>>>>> Oscar's-Branch-03
