@@ -7,8 +7,6 @@
 header, a, article, section, footer, aside {
   display: block;
 }
-<<<<<<< HEAD
-=======
 
 /* Body Style */
 body {
@@ -42,22 +40,19 @@ header {
 #index_mission {
   width: inherit;
   height: auto;
-  padding: 0px;
-  margin: 0px;
 }
 
 #index_mission img {
   width: inherit;
   height: inherit;
-  padding: inherit;
-  margin: inherit;
+
 }
 
 /* HowItWorks Section Style */
 #index_howitworks {
   width: inherit;
   height: 450px;
-  background: #ffffff;
+  background-color: #ffffff;
 }
 
 /* Featured Instructors Style */
@@ -66,4 +61,3 @@ header {
   height: 400px;
   background-color: #E8E8E8;
 }
->>>>>>> Oscar's-Branch-03
