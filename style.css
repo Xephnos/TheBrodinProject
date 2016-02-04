@@ -1,0 +1,9 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}
+
+header, a, article, section, footer, aside {
+  display: block;
+}
