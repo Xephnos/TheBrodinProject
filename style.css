@@ -17,23 +17,35 @@ body {
 
 /* Top Nav Style */
 #index_topnavigation {
-  height: 25px;
-  background-color: #292929;
+  height: 30px;
+  background-color: #222;
 }
 
 /* Header Style */
 header {
   width: inherit;
-  height: 100px;
-  background-color: #ffffff;
+  height: 70px;
+  background-color: #333;
+  box-shadow: 0 3px 5px black;
 }
 
+/* Brodin Project text logo*/
 #index_headerlogo {
-  font-size: 25px;
-  color: #FF4000;
+  font-family: Ubuntu, sans-serif;
+  font-size: 1.6em;
+  color: #aaa;
   float: left;
-  margin-top: 36px;
-  margin-left: 25px;
+  margin-top: 20px;
+  margin-left: 15%;
+}
+
+#index_headerlogo a {
+  text-decoration: none;
+  color: #aaa;
+}
+
+#index_headerlogo a:hover {
+  color: #FF7700;
 }
 
 /* Mission Section Style */
@@ -60,3 +72,4 @@ header {
   height: 400px;
   background-color: #E8E8E8;
 }
+
